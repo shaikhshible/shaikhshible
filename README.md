@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikhshible
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and ASP.NET
+- 🌱 C#, ASP.NET, JavaScript, HTML, CSS, MS SQL
 - 💞️ I’m looking to collaborate on web developing.
 - 📫 gmail: shaikhshible@gmail.com
 
